@@ -1,0 +1,8 @@
+c:\users\riz60784\documents\visual studio 2012\Projects\OSSXMLSplitter\OSSXMLSplitter\bin\Debug\OSSXMLSplitter.exe.config
+c:\users\riz60784\documents\visual studio 2012\Projects\OSSXMLSplitter\OSSXMLSplitter\bin\Debug\OSSXMLSplitter.exe
+c:\users\riz60784\documents\visual studio 2012\Projects\OSSXMLSplitter\OSSXMLSplitter\bin\Debug\OSSXMLSplitter.pdb
+c:\users\riz60784\documents\visual studio 2012\Projects\OSSXMLSplitter\OSSXMLSplitter\bin\Debug\CommandLine.dll
+c:\users\riz60784\documents\visual studio 2012\Projects\OSSXMLSplitter\OSSXMLSplitter\bin\Debug\CommandLine.xml
+c:\users\riz60784\documents\visual studio 2012\Projects\OSSXMLSplitter\OSSXMLSplitter\obj\Debug\OSSXMLSplitter.exe
+c:\users\riz60784\documents\visual studio 2012\Projects\OSSXMLSplitter\OSSXMLSplitter\obj\Debug\OSSXMLSplitter.pdb
+C:\Users\riz60784\Documents\Visual Studio 2012\Projects\OSSXMLSplitter\OSSXMLSplitter\obj\Debug\OSSXMLSplitter.csprojResolveAssemblyReference.cache

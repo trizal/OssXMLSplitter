@@ -1,0 +1,7 @@
+c:\users\riz60784\documents\visual studio 2012\Projects\OSSXMLSplitter\OSSXMLSplitter\bin\Release\OSSXMLSplitter.exe.config
+c:\users\riz60784\documents\visual studio 2012\Projects\OSSXMLSplitter\OSSXMLSplitter\bin\Release\OSSXMLSplitter.exe
+c:\users\riz60784\documents\visual studio 2012\Projects\OSSXMLSplitter\OSSXMLSplitter\bin\Release\OSSXMLSplitter.pdb
+c:\users\riz60784\documents\visual studio 2012\Projects\OSSXMLSplitter\OSSXMLSplitter\bin\Release\CommandLine.dll
+c:\users\riz60784\documents\visual studio 2012\Projects\OSSXMLSplitter\OSSXMLSplitter\bin\Release\CommandLine.xml
+c:\users\riz60784\documents\visual studio 2012\Projects\OSSXMLSplitter\OSSXMLSplitter\obj\Release\OSSXMLSplitter.exe
+c:\users\riz60784\documents\visual studio 2012\Projects\OSSXMLSplitter\OSSXMLSplitter\obj\Release\OSSXMLSplitter.pdb
